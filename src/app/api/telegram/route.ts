@@ -201,7 +201,7 @@ async function saveLeadLocal(lead: { name: string; username?: string; phone: str
     fs.writeFileSync(filePath, JSON.stringify(leads, null, 2), 'utf8');
     console.log(`[Lead Saved] Saved phone number lead locally: ${lead.phone}`);
   } catch (error) {
-    console.error('Failed to write lead locally (ephemeral filesystem?):', error);
+    console.warn('[Lead Saved] Could not write lead locally (read-only filesystem on Vercel)');
   }
 }
 
