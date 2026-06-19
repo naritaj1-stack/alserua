@@ -1,0 +1,44 @@
+{
+  "common": {
+    "freeMeasurement": "Měření zdarma",
+    "orderMeasurement": "Objednat měření zdarma",
+    "products": "Produkty",
+    "services": "Služby",
+    "contacts": "Kontakty",
+    "showrooms": "Showroomy",
+    "priceFrom": "od {{price}} Kč",
+    "submit": "Odeslat",
+    "successMessage": "Děkujeme! Náš manažer vás bude brzy kontaktovat."
+  },
+  "hero": {
+    "title": "Oživte svá okna s Alser",
+    "subtitle": "Profesionální poradenství a přesné měření zdarma. Široká nabídka interiérových i exteriérových řešení."
+  },
+  "trust": {
+    "production": "Rychlé dodání",
+    "guarantee": "12 měsíců záruka",
+    "materials": "Široká škála materiálů"
+  },
+  "products": {
+    "title": "Naše produkty",
+    "rollers": "Rolety",
+    "blinds": "Žaluzie",
+    "curtains": "Závěsy",
+    "roman": "Římské rolety"
+  },
+  "chatbot": {
+    "greeting": "Dobrý den! Jsem váš asistent Alser. Chcete oživit svá okna nebo chránit místnost před sluncem?",
+    "qualification": "Co vás zajímá: Žaluzie, Rolety nebo Závěsy?",
+    "hook": "Víte, že dnes nabízíme měření zdarma? Náš odborník přinese více než 100 vzorků k vám domů, abyste nemuseli hádat barvu.",
+    "conversion": "Chcete si objednat měření zdarma na zítra nebo pozítří?",
+    "namePlaceholder": "Vaše jméno",
+    "phonePlaceholder": "+420 000 000 000",
+    "options": {
+      "blinds": "Žaluzie",
+      "rollers": "Rolety",
+      "curtains": "Závěsy",
+      "tomorrow": "Na zítra",
+      "dayAfter": "Pozítří"
+    }
+  }
+}

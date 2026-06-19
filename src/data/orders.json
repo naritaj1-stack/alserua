@@ -1,0 +1,50 @@
+[
+  {
+    "phone": "+380671112233",
+    "code": "AL-4820",
+    "status": "manufacturing",
+    "createdAt": "2026-06-18T10:00:00.000Z"
+  },
+  {
+    "phone": "+380663708808",
+    "code": "AL-9150",
+    "status": "in_progress",
+    "createdAt": "2026-06-19T11:00:00.000Z"
+  },
+  {
+    "phone": "+380986588822",
+    "code": "AL-2840",
+    "status": "completed",
+    "createdAt": "2026-06-15T14:30:00.000Z"
+  },
+  {
+    "phone": "+380631234567",
+    "code": "AL-4729",
+    "status": "in_progress",
+    "createdAt": "2026-06-19T10:00:26.873Z"
+  },
+  {
+    "phone": "0663708808",
+    "code": "AL-2523",
+    "status": "in_progress",
+    "createdAt": "2026-06-19T10:10:19.862Z"
+  },
+  {
+    "phone": "+380999999999",
+    "code": "AL-9822",
+    "status": "in_progress",
+    "createdAt": "2026-06-19T10:16:54.149Z"
+  },
+  {
+    "phone": "0987899900",
+    "code": "AL-4073",
+    "status": "in_progress",
+    "createdAt": "2026-06-19T10:27:19.603Z"
+  },
+  {
+    "phone": "0987657859",
+    "code": "AL-4207",
+    "status": "in_progress",
+    "createdAt": "2026-06-19T10:28:56.657Z"
+  }
+]
